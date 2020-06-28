@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.site-nav-bar {
+  background-color: rgb(0, 153, 255);
+  height: 90px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+}
+
+.nav-item {
+  text-decoration: none;
+}
+
+.home {
+  margin: 5%;
+}
+
+.login-container, .register-container {
+  margin: 5%;
+}
+
+.dashboard {
+  margin: 5%;
+  display: inline-flex;
+}
+
+.card {
+  margin: 2%;
+  box-shadow: 3px 7px #001f33;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 153, 255);
+  text-align: center;
+  height: 100px;
+}
+
+.document-form-container {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  margin-bottom: 140px;
+}
+
+.admin-container {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  margin-bottom: 140px;
+}
+
+.document-view {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+  margin-bottom: 140px;
+}
+
+.login-container {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.background-container {
+  margin: 0%;
+}
